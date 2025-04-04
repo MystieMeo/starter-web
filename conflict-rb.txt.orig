@@ -1,0 +1,7 @@
+ligne 1
+ligne 2
+<<<<<<< HEAD
+mod ligne 3
+=======
+ligne 3 pipou
+>>>>>>> a7f4bf9 (Gen conflit par Mod ligne 3 de conflict-rb dans master)
